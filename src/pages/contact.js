@@ -5,7 +5,7 @@ const ContactPage = () => {
     return (
         <Layout>
             <h1>Contact</h1>
-            <p>contact deeeets</p>
+            <p>Contact details here</p>
             <a href="https://www.google.com">Follow me on twitter.</a>
         </Layout>
     );
